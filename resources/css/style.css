@@ -10,11 +10,24 @@ body {
 .navi {
   color: white;
 }
-.footer {
+.footer p {
   background-color: dimgray;
   color: white;
+  font-size: 11px;
+  text-align: left;
+}
+p {
+  font-size: 14px;
 }
 h1 {
   font-size: 70px;
+  font-weight:bold;
+}
+h2 {
+  font-size: 32px;
+  font-weight:bold;
+}
+h3 {
+  font-size: 23px;
   font-weight:bold;
 }
